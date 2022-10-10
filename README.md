@@ -24,14 +24,20 @@ To just focus on Deployment strategies, we recommend that you pre-create all the
 * ALB with with listener rule 80
 * An empty default web tg
 
-* AMI
+## Release 1 Snapshot
+![Release 1](releasev1.png )
+
+## Release 2 Snapshot
+![Release 2](releasev2.png )
+
+## AMI
 ![AMI's](ami.png "AMI")
 
-* Initial Setup
+## Initial Setup
 ![Initial setup](initial_setup.png "Initial Setup")
 
-* Recreate Deployment Strategy
+## Recreate Deployment Strategy
 ![Recreate deployment](recreate.png "Recreate deployment")
 
-* Rolling Deployment Strategu
+## Rolling Deployment Strategu
 ![Rolling Deployment](rolling.png "Rolling Deployment")
