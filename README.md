@@ -48,4 +48,4 @@ To just focus on Deployment strategies, we recommend that you pre-create all the
 * [A Detailed Guide to Canary Deployments!](https://blog.opstree.com/2022/04/05/a-detailed-guide-to-canary-deployments/)
 * [Canary vs Blue-Green Deployment- Which one should you choose?](https://blog.opstree.com/2022/04/19/canary-vs-blue-green-deployment-which-one-should-you-choose/)
 * [When not to think of Canary Deployment?](https://blog.opstree.com/2022/04/20/when-not-to-think-of-canary-deployment/)
-* [Deployment Strategies: 6 Explained in Depth] (https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth)
+* [Deployment Strategies: 6 Explained in Depth](https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth)
